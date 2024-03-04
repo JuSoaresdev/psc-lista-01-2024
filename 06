@@ -1,0 +1,13 @@
+programa {
+  funcao inicio() {
+    cadeia Nome
+    real Idade, Altura
+    escreva("Escreve seu nome: ")
+    leia(Nome)
+    escreva("Escreva sua idade: ")
+    leia(Idade)
+    escreva("Escreva sua altura: ")
+    leia(Altura)
+    escreva("Seu nome é ",Nome," sua idade é ",Idade," sua altura é ",Altura)
+  }
+}
